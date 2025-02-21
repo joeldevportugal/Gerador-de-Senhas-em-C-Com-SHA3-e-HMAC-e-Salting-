@@ -1,5 +1,7 @@
 # Gerador-de-Senhas-em-C-Com-SHA3-e-HMAC-e-Salting-
 
+instalador Aqui : https://drive.google.com/file/d/1ZjcQiqbniBcwk391tPDnmrc8vUSSV8U0/view?usp=sharing
+eu nao consigo colocar o instalador No guitHub fica na Minha Drive do Google
 Este Software e desembolvido em C# tem como funcionalidades !
 
 Funcionalidades
