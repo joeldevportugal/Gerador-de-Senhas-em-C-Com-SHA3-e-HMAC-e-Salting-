@@ -1,0 +1,26 @@
+C:\Users\HP\Desktop\Software em C#\Gerador de senhas\Gerador de Senhas V1\Gerador de senhas V1\Gerador de senhas V1\bin\x64\Debug\Gerador de senhas V1.exe.config
+C:\Users\HP\Desktop\Software em C#\Gerador de senhas\Gerador de Senhas V1\Gerador de senhas V1\Gerador de senhas V1\bin\x64\Debug\Gerador de senhas V1.exe
+C:\Users\HP\Desktop\Software em C#\Gerador de senhas\Gerador de Senhas V1\Gerador de senhas V1\Gerador de senhas V1\bin\x64\Debug\Gerador de senhas V1.pdb
+C:\Users\HP\Desktop\Software em C#\Gerador de senhas\Gerador de Senhas V1\Gerador de senhas V1\Gerador de senhas V1\obj\x64\Debug\Gerador de senhas V1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Software em C#\Gerador de senhas\Gerador de Senhas V1\Gerador de senhas V1\Gerador de senhas V1\obj\x64\Debug\Gerador_de_senhas_V1.frCapa.resources
+C:\Users\HP\Desktop\Software em C#\Gerador de senhas\Gerador de Senhas V1\Gerador de senhas V1\Gerador de senhas V1\obj\x64\Debug\Gerador_de_senhas_V1.frGerador.resources
+C:\Users\HP\Desktop\Software em C#\Gerador de senhas\Gerador de Senhas V1\Gerador de senhas V1\Gerador de senhas V1\obj\x64\Debug\Gerador_de_senhas_V1.Properties.Resources.resources
+C:\Users\HP\Desktop\Software em C#\Gerador de senhas\Gerador de Senhas V1\Gerador de senhas V1\Gerador de senhas V1\obj\x64\Debug\Gerador de senhas V1.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Software em C#\Gerador de senhas\Gerador de Senhas V1\Gerador de senhas V1\Gerador de senhas V1\obj\x64\Debug\Gerador de senhas V1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Software em C#\Gerador de senhas\Gerador de Senhas V1\Gerador de senhas V1\Gerador de senhas V1\obj\x64\Debug\Gerador de senhas V1.exe
+C:\Users\HP\Desktop\Software em C#\Gerador de senhas\Gerador de Senhas V1\Gerador de senhas V1\Gerador de senhas V1\obj\x64\Debug\Gerador de senhas V1.pdb
+C:\Users\HP\Desktop\Software em C#\Gerador de senhas\Gerador de Senhas V1\Gerador de senhas V1\Gerador de senhas V1\bin\x64\Debug\BouncyCastle.Crypto.dll
+C:\Users\HP\Desktop\Software em C#\Gerador de senhas\Gerador de Senhas V1\Gerador de senhas V1\Gerador de senhas V1\bin\x64\Debug\SHA3.dll
+C:\Users\HP\Desktop\Software em C#\Gerador de senhas\Gerador de Senhas V1\Gerador de senhas V1\Gerador de senhas V1\bin\x64\Debug\SHA3.Net.dll
+C:\Users\HP\Desktop\Software em C#\Gerador de senhas\Gerador de Senhas V1\Gerador de senhas V1\Gerador de senhas V1\bin\x64\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\Software em C#\Gerador de senhas\Gerador de Senhas V1\Gerador de senhas V1\Gerador de senhas V1\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\Software em C#\Gerador de senhas\Gerador de Senhas V1\Gerador de senhas V1\Gerador de senhas V1\bin\x64\Debug\System.Memory.dll
+C:\Users\HP\Desktop\Software em C#\Gerador de senhas\Gerador de Senhas V1\Gerador de senhas V1\Gerador de senhas V1\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\Software em C#\Gerador de senhas\Gerador de Senhas V1\Gerador de senhas V1\Gerador de senhas V1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\Software em C#\Gerador de senhas\Gerador de Senhas V1\Gerador de senhas V1\Gerador de senhas V1\bin\x64\Debug\BouncyCastle.Crypto.xml
+C:\Users\HP\Desktop\Software em C#\Gerador de senhas\Gerador de Senhas V1\Gerador de senhas V1\Gerador de senhas V1\bin\x64\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\Software em C#\Gerador de senhas\Gerador de Senhas V1\Gerador de senhas V1\Gerador de senhas V1\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\Desktop\Software em C#\Gerador de senhas\Gerador de Senhas V1\Gerador de senhas V1\Gerador de senhas V1\bin\x64\Debug\System.Memory.xml
+C:\Users\HP\Desktop\Software em C#\Gerador de senhas\Gerador de Senhas V1\Gerador de senhas V1\Gerador de senhas V1\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\Software em C#\Gerador de senhas\Gerador de Senhas V1\Gerador de senhas V1\Gerador de senhas V1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\Software em C#\Gerador de senhas\Gerador de Senhas V1\Gerador de senhas V1\Gerador de senhas V1\obj\x64\Debug\Gerador .18098749.Up2Date
