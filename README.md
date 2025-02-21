@@ -1,0 +1,1 @@
+# Gerador-de-Senhas-em-C-Com-SHA3-e-HMAC-e-Salting-
